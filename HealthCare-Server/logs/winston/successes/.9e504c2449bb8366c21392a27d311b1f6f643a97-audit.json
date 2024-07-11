@@ -1,0 +1,65 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\.9e504c2449bb8366c21392a27d311b1f6f643a97-audit.json",
+    "files": [
+        {
+            "date": 1719816964204,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-01-07-12-success.log",
+            "hash": "e049dc0218f74770eb767b27d06b07a1c05eec558457a3a054c2b3a8ecec6247"
+        },
+        {
+            "date": 1719819465762,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-01-07-13-success.log",
+            "hash": "4846dfa07f59fb1692df0e5b1ee58706e8ff036a39993d7ecd25db00f1a0f077"
+        },
+        {
+            "date": 1719896453701,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-02-07-11-success.log",
+            "hash": "c4db16f680299bba2f4d981995d77631d840a07a677cfb2a5168ef1c87b3f214"
+        },
+        {
+            "date": 1720071123730,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-04-07-11-success.log",
+            "hash": "034882b2d8ff9df9e84d871fb574eae828ec9297689da4a0f79b21e01ca1897f"
+        },
+        {
+            "date": 1720239421038,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-06-07-10-success.log",
+            "hash": "687065eb287b6fed88d2c8b74934f10d237defbb0d500014745caad72431695c"
+        },
+        {
+            "date": 1720329826899,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-07-07-11-success.log",
+            "hash": "674854cc67deae8ce8112d1591e1a01c7fc48bd75b3c3dea9e061fb7639d6f61"
+        },
+        {
+            "date": 1720333212986,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-07-07-12-success.log",
+            "hash": "795c78ba88090178391fe8ae99247b0d33a89bf98fccbe0deaa76e789d36040e"
+        },
+        {
+            "date": 1720445196521,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-08-07-19-success.log",
+            "hash": "0d9b92857dfc43c634e3b93ea2fadde3bacc76309618963c53802ec11502a145"
+        },
+        {
+            "date": 1720501861518,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-09-07-11-success.log",
+            "hash": "5201faf12b1ae5567b7c7397cc506044d2661139300aadcc720321132bbb57dc"
+        },
+        {
+            "date": 1720586085138,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-10-07-10-success.log",
+            "hash": "999ca9b9321f894b1faddd7248c241fd9ab4e1258a6c0ec5e59b10cbea8fdded"
+        },
+        {
+            "date": 1720673643131,
+            "name": "C:\\Project\\Front-end\\HelthCare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-11-07-10-success.log",
+            "hash": "77040551bb52a14d6790a8875c20ab339accc8e3633b96ec45d4f09c9372c139"
+        }
+    ],
+    "hashType": "sha256"
+}
